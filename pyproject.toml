@@ -19,7 +19,7 @@ python = "<3.12,>=3.10"
 typer = {extras = ["all"], version = "^0.9.0"}
 questionary = "^2.0.1"
 pytz = "^2023.3.post1"
-tqdm = "^4.66.1"
+tqdm = "^4.66.3"
 black = { version = "^23.10.1", optional = true }
 pytest = { version = "^7.4.4", optional = true }
 llama-index = "^0.9.13"
